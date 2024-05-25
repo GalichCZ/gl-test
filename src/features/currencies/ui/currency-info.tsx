@@ -1,4 +1,4 @@
-import Flag from '@/features/currencies/ui/flag.tsx'
+import Flag from '@/features/currencies/components/flag.tsx'
 import { FC } from 'react'
 
 interface CurrencyInfoProps {
